@@ -34,7 +34,7 @@ module.exports = {
         'Antd',
         'Tailwind',
         'Bootstrap',
-        'HTML',
+        'HTML'
     ],
     experiences: [
         { 
@@ -55,7 +55,7 @@ module.exports = {
             institution: 'University Bina Nusantara',
             degree: 'Bachelor of Teknik Informatika dan Statistik',
             from: '2017',
-            to: '2022',
+            to: '2022'
         },
         { 
             institution: 'Sekolah Pilar Indonesia',
